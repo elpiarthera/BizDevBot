@@ -1,0 +1,6 @@
+POST https://us-central1-arthera-biz-dev-bot.cloudfunctions.net/bot
+Content-Type: application/json
+
+{
+  "test": "data"
+}
