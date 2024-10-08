@@ -1,4 +1,11 @@
+# Dependency directories
 node_modules/
-*.localfirebase-key.json
-node_modules/
+
+# Local files
+*.local
+
+# Firebase service account key
+firebase-key.json
+
+# Environment variables
 .env
