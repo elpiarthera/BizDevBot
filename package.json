@@ -1,8 +1,27 @@
 {
   "dependencies": {
+    "better-queue": "^3.8.12",
     "dotenv": "^16.4.5"
   },
   "devDependencies": {
-    "firebase-tools": "^13.15.1"
-  }
+    "firebase-tools": "^13.15.4"
+  },
+  "name": "arthera-biz-dev-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elpiarthera/BizDevBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elpiarthera/BizDevBot/issues"
+  },
+  "homepage": "https://github.com/elpiarthera/BizDevBot#readme",
+  "description": ""
 }

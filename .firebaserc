@@ -1,5 +1,12 @@
 {
   "projects": {
     "default": "arthera-biz-dev-bot"
-  }
+  },
+  "targets": {},
+  "etags": {
+    "arthera-biz-dev-bot": {
+      "extensionInstances": {}
+    }
+  },
+  "dataconnectEmulatorConfig": {}
 }

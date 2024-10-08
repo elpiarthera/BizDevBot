@@ -1,0 +1,119 @@
+[
+  {
+    "id": "Book",
+    "functions": [
+      {
+        "id": "A VC Call",
+        "response": "https://cal.mixmax.com/lp-arthera/vc-arthera"
+      },
+      {
+        "id": "A discovery Call",
+        "response": "Book your discovery call with us to explore how we can collaborate:  https://cal.mixmax.com/lp-arthera/ecce-arthera"
+      }
+    ]
+  },
+  {
+    "id": "Share a blurb",
+    "functions": [
+      {
+        "id": "Ecosystem Blurb",
+        "response": "Arthera Chain details:\n\nArthera is an EVM blockchain, but not just that. We have also introduced the concept of 'Gas Pass' in Web3.\n\nSpecifically, in addition to being able to cover transaction fees like on any other blockchain (pay as you go, one transaction = one 'transaction fee'), users can purchase a Gas Pass at a fixed price, which will cover their transaction fees. Projects can also acquire 'contracts gas pass' to cover their users' transaction fees.\n\nThanks to our dedicated platform, called the Subscription Management Platform, these projects will be able to create and manage their own subscription system, offering their users coverage for transaction fees (and possibly other benefits) for a fixed amount in crypto or fiat.\n\nAdditionally, we are introducing a revenue redistribution model for the blockchain. In simple terms, the more a dapp generates transactions, the more the project generates revenue by receiving a portion of the transaction fees/revenue from Gas Pass sales.\n\n🔑 Key components:\n✅ DAG (Direct Acyclic Graph) structures to achieve high TPS.\n✅ One click wallet creation\n✅ Gas-less Experience with a Gas Pass\n✅ Account Abstraction Next Gen for dApps (offer a no Gas Fees experience to end user at a predictable and fixed price)\n✅ Early Bird Welcoming Package for qualified projects to reduce their users acquisition costs and to engage a long term partnership with Arthera’s core team\n\n🌐 Links:\n🧰 Website: https://www.arthera.net\n📃 Dashboard: https://dashboard.arthera.net\n📚 Documentation: https://docs.arthera.net\n📈 Explorer: https://explorer.arthera.net\n🐦 Twitter: https://x.com/artherachain\nℹ️ Telegram: https://t.me/artherachain\n📜 Quest platform: https://quest.arthera.net\n\n📊 Some key numbers:\nArthera’s Progressive Grand Opening start on 19/02 marked the beginning of a 12 weeks major campaign offering the possibility for users to win prizes while enjoying a gasless experience AND for onboarded projects to be early capturing a new audience while benefiting from our revenue sharing model:\n- 134,000+ subscriptions claimed\n- 42,000,000+ transactions performed\n- Up to 603,000 24-hours transactions so far\n- block validation time as low as 0.3 second\n"
+      }
+    ]
+  },
+  {
+    "id": "Share a link",
+    "functions": [
+      {
+        "id": "All useful links",
+        "response": "You will find here under all Arthera useful links 👇\nWebsite: https://arthera.net\nDocumentation: https://docs.arthera.net\nExplorer: https://explorer.arthera.net\nTestnet Explorer: https://explorer-test.arthera.net\nMainnet Faucet: https://gaspass.arthera.net\nTestnet Faucet: https://gaspass-test.arthera.net\nDashboard: https://dashboard.arthera.net\nQuest platform: https://quest.arthera.net\nMedia Kit/Branding: https://docs.arthera.net/build/branding/\nTG Public Group: https://t.me/artherachain\nTG Ecosystem Group: https://t.me/+T-Ckv4tPgxlkN2I0\nTwitter: https://x.com/artherachain"
+      },
+      {
+        "id": "Arthera Dashboard",
+        "response": "https://dashboard.arthera.net"
+      },
+      {
+        "id": "Arthera Documentation",
+        "response": "https://docs.arthera.net"
+      },
+      {
+        "id": "Arthera Twitter Account",
+        "response": "https://x.com/artherachain"
+      },
+      {
+        "id": "Arthera website",
+        "response": "https://arthera.net"
+      },
+      {
+        "id": "Mainnet Explorer",
+        "response": "https://explorer.arthera.net"
+      },
+      {
+        "id": "Mainnet Faucet",
+        "response": "https://gaspass.arthera.net"
+      },
+      {
+        "id": "Media Kit",
+        "response": "https://docs.arthera.net/build/branding/"
+      },
+      {
+        "id": "Quest Platform",
+        "response": "https://quest.arthera.net"
+      },
+      {
+        "id": "Telegram Ecosystem Group",
+        "response": "https://t.me/+T-Ckv4tPgxlkN2I0"
+      },
+      {
+        "id": "Telegram Public Group",
+        "response": "https://t.me/artherachain"
+      },
+      {
+        "id": "Testnet Explorer",
+        "response": "https://explorer-test.arthera.net"
+      },
+      {
+        "id": "Testnet Faucet",
+        "response": "https://gaspass-test.arthera.net"
+      }
+    ]
+  },
+  {
+    "id": "Template MSG",
+    "functions": [
+      {
+        "id": "Join Eco group",
+        "response": "Don’t hesitate to join our Ecosystem group!\nThis is the place to be for projects building on Arthera to meet and start collaborations.\nJoin, bring your team in and introduce the project to the community of builders 🤝\nLink: https://t.me/+T-Ckv4tPgxlkN2I0"
+      },
+      {
+        "id": "Start Onboarding Process",
+        "response": "In order to get started with co-marketing activities, please fill this form: https://forms.gle/RukZRgMZhQAnC6pF8    Make sure you fill: - POC info - Project website and socials - mediakit link - and, if needed, deployer wallet address"
+      },
+      {
+        "id": "Welcome message",
+        "response": "👋 Hello and Welcome! \nI'm the Arthera Biz Dev Bot, here to assist Arthera's team members with business development tasks. \nWhile I work behind the scenes, our team is here to support your projects, share updates, and help drive collaboration forward. \nRest assured, the Arthera team is committed to making your journey with us as smooth and successful as possible. \nIf you have any questions or need support, our team is always ready to help!"
+      }
+    ]
+  },
+  {
+    "id": "Tutorials",
+    "functions": [
+      {
+        "id": "Multi-Level Referral Program",
+        "response": "Discover the benefits of our Multi-Level Referral Program with this video introduction https://www.loom.com/share/ccc3c8bb46fa449aa6da0a20e8fff59a?sid=4e52ba9a-e17a-493d-917d-4ab06115d189"
+      },
+      {
+        "id": "Set up a Quidli account",
+        "response": "Get started with Quidli by following this simple setup guide: https://www.loom.com/share/f791820dd1954ab78623194a3b261300?sid=505b64c9-c851-4a84-aeeb-0d65b1042181"
+      },
+      {
+        "id": "Set up a quest",
+        "response": "Ready to create your first quest? Follow this step-by-step guide: https://docs.google.com/document/d/1ccl4a4JybAfeG8Ct94FXSIP7oQ5u913z20K3Yq6Ud8s/edit#heading=h.uox8ub5qdl0e"
+      },
+      {
+        "id": "Set up a referral code",
+        "response": "Maximize your earnings by setting up your referral code. Watch this tutorial:  https://www.loom.com/share/7330871932174e0d8f35a5b1ff423b0f?sid=6953ded1-a25a-44b4-a9d9-2c6d5ccfb406"
+      }
+    ]
+  }
+]
