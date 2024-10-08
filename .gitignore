@@ -69,3 +69,4 @@ pids
 
 # Local files
 *.local
+functions/firebase-key.json
