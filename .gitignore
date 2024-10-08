@@ -70,3 +70,5 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+functions/firebase-key.json
+functions/firebase-key.json
